@@ -31,8 +31,13 @@ function onepage() {
                         <img className="logo" src={Logo} alt="Logo"></img>
                     </div>
                     <div className="Group-text-navbar">
-                        <a className="navbar-home">หน้าแรก</a>
+                        <a className="navbar-home" href="Home">หน้าแรก</a>
+                        <a className="navbar-package" href="package">แพคเกจ</a>
+                        <a className="navbar-message" href="messageus">ข่าวสาร</a>
+                        <a className="navbar-aboutus" href="aboutus">เกี่ยวกับเรา</a>
+                        <a className="navbar-contactus" href="contactus">ติดต่อเรา</a>
                     </div>
+                    
                 </div>
             </div>
         </div>
