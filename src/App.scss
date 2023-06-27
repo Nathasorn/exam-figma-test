@@ -1,0 +1,109 @@
+.Home {
+    /* Home */
+    position: relative;
+    width: 1680px;
+    height: 7530px;
+    overflow-y: scroll;
+
+    opacity: 0.5;
+}
+
+.desktopheader {
+    /* Desktop/Header */
+    position: absolute;
+    width: 1680px;
+    height: 86px;
+    left: 0px;
+    top: -27px;
+}
+
+.head {
+    /* Desktop/Header */
+    position: absolute;
+    width: 1680px;
+    height: 86px;
+    left: 0px;
+    top: -27px;
+}
+
+.home {
+    /* Rectangle 1020 */
+    position: absolute;
+    width: 1680px;
+    height: 940px;
+    left: 0px;
+    top: 60px;
+
+    background: #FFFFFF;
+}
+
+.service {
+
+}
+
+.solution {
+    /* Body F */
+    position: absolute;
+    width: 1668px;
+    height: 1365px;
+    left: 0px;
+    top: 1876px;
+
+    background: #023E8A;
+}
+
+.aboutus {
+    /* Body E */
+    position: absolute;
+    width: 1668px;
+    height: 928px;
+    left: 0px;
+    top: 3241px;
+
+    background: #FFFFFF;
+}
+
+.testimonial {
+    /* Testimonial D */
+    position: absolute;
+    width: 1668px;
+    height: 826px;
+    left: 0px;
+    top: 4109px;
+
+    background: #FFFFFF;
+}
+
+.macbook4 {
+    /* MacBook - 4 */
+    position: absolute;
+    width: 1678px;
+    height: 876px;
+    left: 0px;
+    top: 4911px;
+
+    background: #023E8A;
+    border-radius: 25px;
+}
+
+.contactus {
+    /* Rectangle 1026 */
+    position: absolute;
+    width: 1678px;
+    height: 1564px;
+    left: 0px;
+    top: 5702px;
+
+    background: #FFFFFF;
+}
+
+.footer {
+    /* Footer C */
+    position: absolute;
+    width: 1668px;
+    height: 391px;
+    left: 10px;
+    top: 7118px;
+
+    background: #FFFFFF;
+}

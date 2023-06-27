@@ -1,0 +1,115 @@
+.Onepage {
+   /* Home */
+   position: relative;
+   width: 1680px;
+   height: 7530px;
+   overflow-y: scroll;
+   opacity: 0.5;
+}
+
+.desktop-header {
+    width: 1680px;
+    height: 86px;
+    top: -27px;
+}
+
+.destop-header-header {
+    width: 1680px;
+    height: 64.04px;
+    top: 21.96px;
+}
+
+.reactangle1 {
+    /* Rectangle 1 */
+    position: absolute;
+    width: 1680px;
+    height: 64.04px;
+    top: 21.96px;
+    background-color: #09438D;
+}
+
+.desktop-header-text {
+    position: absolute;
+    font-family: 'Volkhov';
+    font-weight: 400;
+    size: 16px;
+    line-height: 20.64px;
+    color: #FFFFFF;
+}
+
+.desktop-header-imgphone {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 16px;
+    left: 339px;
+}
+
+.desktop-header-facebook {
+    position: absolute;
+    width: 54px;
+    height: 55px;
+    top: 4px;
+    left: 1371px;
+}
+
+.desktop-header-line {
+    position: absolute;
+    width: 44px;
+    height: 45px;
+    top: 8px;
+    left: 1430px;
+}
+
+.reactangle31 {
+    /* Rectangle 31 */
+    position: absolute;
+    width: 3px;
+    height: 41px;
+    left: 1496px;
+    top: 8px;
+    background: #D9D9D9;
+}
+
+.desktop-header-language {
+    position: absolute;
+    width: 43px;
+    height: 44px;
+    top: 8px;
+    left: 1522px;
+    border-radius: 50px;
+}
+
+.Navbar-Header {
+    width: 1680px;
+    height: 107px;
+    top: 53px;
+    left: -1px;
+    background-color: #FFFFFF;
+}
+
+.logo {
+    width: 169px;
+    height: 90px;
+    top: 64px;
+    left: 84px;
+}
+
+.Group-text-navbar {
+    width: 777px;
+    height: 25.11px;
+    top: 94.86px;
+    left: 459px;
+}
+
+.navbar-home {
+    position: absolute;
+    width: 59.03px;
+    height: 25.11px;
+    top: 94.86px;
+    left: 459px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
