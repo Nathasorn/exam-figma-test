@@ -51,6 +51,11 @@ function onepage() {
                 </div>
             </div>
             <div className="Home">
+                <div className="home-image">
+                    <img className="home-background" src={Bghome} alt="Home-Background"></img>
+                    <img className="image225" src={Image225} alt="Image225"></img>
+                    <img className="image227" src={Image227} alt="Image227"></img>
+                </div>
                 <div className="reactangle26"></div>
                 <div className="reactangle27"></div>
                 <a className="reactangle27-text">NEW</a>
@@ -58,14 +63,8 @@ function onepage() {
                 <div className="home-group-header-text">
                     <a className="home-group-header-text-detail">บริการยื่น ตรวจสอบประวัติอาชญากรรม สำหรับ องค์กร และบุคคลทั่วไป</a>
                 </div>
-                <div className="group1000003687">
                 <a className="image225-text">ไม่ต้องรอคิว</a>
-                </div>
-                <div className="home-image">
-                    <img className="home-background" src={Bghome} alt="Home-Background"></img>
-                    <img className="image225" src={Image225} alt="Image225"></img>
-                    <img className="image227" src={Image227} alt="Image227"></img>
-                </div>
+                <a className="image227-text">ข้อมูลปลอดภัย</a>
             </div>
         </div>
     )
